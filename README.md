@@ -50,7 +50,7 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> 
 
-## Github Stats
+**Github Stats** 
 
 
 <img align="left" alt="Aayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aayu8982&show_icons=true&hide_border=true" />
