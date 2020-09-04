@@ -30,7 +30,7 @@
 - 💬 Ask me about NodeJs.
 - 📫 How to reach me: [Twitter - @aayu8982](https://twitter.com/aayu8982) Email- aayu8982@gmail.com
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I spend most of time in Social Media.
+- ⚡ Fun fact: I spend most of time in VScode💻.
 
 **Languages and Tools:**  
 
